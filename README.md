@@ -37,6 +37,59 @@ _**Insert Shaun Pic Here**_
 
 Shaun had started learning about html5 and JavaScript in highschool, and currently taking a class on Python. He has created some personal projects, for instance, a 3D, first-person platformer and created some mini player vs AI games on Python
 
+
+### Strategy 
+- 2 years
+  - Heavily used locally
+- 3 years
+  - Heavily used in the state
+- 4-5 years
+  - Heavily used in the country
+- 7 years
+  - Global use
+
+Competitor: Cisco, Barracuda, Sophos
+- https://www.cisco.com/c/en/us/solutions/collaboration/case-studies/t-mobile.html
+- https://www.cisco.com/c/en/us/solutions/collaboration/case-studies.html#~all
+
+```
+Our product exceeds our expectations; decreasing the amount of cyberattacks worldwide.
+Protecting from malware, Simplifying network protection, Implement AI into our security
+```
+
+### Our Sloagan
+```
+Use Protection, It's Fun!
+```
+
+## Cultural Policy
+### Our Core Values
+- Accountability 
+- Honesty
+- Integrity
+- Open Communication with all parties
+- We design our products with our grandparents in mind
+- A commitment to keeping your private information safe
+- Comfortable Workspace
+
+### Our Motivation
+- Our Loves
+  - Safety
+  - Our Customers
+  - Simplicity
+- Our Fears
+  - Cyberattacks
+  - Data Loss
+
+### RedX's Culture
+```
+Simplicity and Protection
+```
+
+## Ethics Policy
+## Experimentation & Priorities
+## YouTube Presentation
+
 ![RedX Banner ](https://repository-images.githubusercontent.com/258019896/b934c380-84a3-11ea-884b-feaaafe332c8)
 
 ```markdown
