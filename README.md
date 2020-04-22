@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to RedX Firewalls
 
-You can use the [editor on GitHub](https://github.com/redxfirewall/redx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Business Plan
+### Who We Are: RedX Firewalls
+### Our Long-Term Vision
+- Our Goals
+  1. To Protect Home and Business Users from Malware and other Network Threats
+  2. Simplifying Network Protection for Everyone
+  3. Implement Artificial Intellegence (AI) into our Security to make a Dynamic Wall of Defense Capable of Keeping Up with the Ever-Changing Digital Battlefield
+- Idea Origins
+- Purpose, Value, and Mission
+  - To dynamically protect your information in an ever-changing web
+  - To build scalable products that are able to be implemented in a home environment or in a business enviroment
+  - _Why do we require an improved Firewall?_
+    - For the typical user, current firewall solutions are complicated and if left alone, create a huge risk for user data to be compromised.
+    - We want to create a product that will protect the user, no matter what level of networking they might need.
+- Compelling Value
+  - **Accountabilty for data loss**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +35,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redxfirewall/redx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
