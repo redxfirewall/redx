@@ -13,6 +13,8 @@
   - _Why do we require an improved Firewall?_
     - For the typical user, current firewall solutions are complicated and if left alone, create a huge risk for user data to be compromised.
     - We want to create a product that will protect the user, no matter what level of networking they might need.
+  - We want to build a firewall that will change just as the internet does.
+    - New threats become apparent every day
 - Compelling Value
   - **Accountabilty for data loss**
 ### External Opportunities
