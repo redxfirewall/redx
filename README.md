@@ -1,113 +1,144 @@
-# Welcome to RedX Firewalls
-## Business Plan
-### Who We Are: RedX Firewalls
-### Our Long-Term Vision
-- Our Goals
-  1. To Protect Home and Business Users from Malware and other Network Threats
-  2. Simplifying Network Protection for Everyone
-  3. Implement Artificial Intellegence (AI) into our Security to make a Dynamic Wall of Defense Capable of Keeping Up with the Ever-Changing Digital Battlefield
-- Idea Origins
-- Purpose, Value, and Mission
-  - To dynamically protect your information in an ever-changing web
-  - To build scalable products that are able to be implemented in a home environment or in a business enviroment
-  - _Why do we require an improved Firewall?_
-    - For the typical user, current firewall solutions are complicated and if left alone, create a huge risk for user data to be compromised.
-    - We want to create a product that will protect the user, no matter what level of networking they might need.
-  - We want to build a firewall that will change just as the internet does.
-    - New threats become apparent every day
-- Compelling Value
-  - **Accountabilty for data loss**
-### External Opportunities
-### The RedX Team
-![Gregory Galvan](https://avatars3.githubusercontent.com/u/29440821?s=96&v=4)
+## RedX Firewalls
 
-**Gregory Galvan**
+### Description
+Please see our Wiki for more information about RedX: https://github.com/redxfirewall/redx/wiki
 
-Gregory worked in IT for several years and understands the needs of both commercial and private clients. He also is very aware of different risks that people may have on an online environment, in addition to the specific needs that people may have for their firewall. Gregory has also been involved in the implementation of firewall systems and is well-versed in the protocols of setting port forwards, DNS rules, record management, and application defense.
+### Table of Contents
+- Wiki Home: https://github.com/redxfirewall/redx/wiki
+  - Business Plan: https://github.com/redxfirewall/redx/wiki/Business-Plan
+  - Cultural Policy: https://github.com/redxfirewall/redx/wiki/Cultural-Policy
+  - Ethics Policy: https://github.com/redxfirewall/redx/wiki/Ethics-Policy
+  - Experimentation & Priorities: https://github.com/redxfirewall/redx/wiki/Experimentation-&-Priorities
+  - YouTube Presentation: https://github.com/redxfirewall/redx/wiki/YouTube-Presentation
 
+### Installation
+With our built-in AI system, running a firewall has never been this easy. Simply plug in our Firewall to power, connect the provided Ethernet cables to the back of the modem and router, and navigate to http://redxfirewall.local on a connected computer to get started!
 
-_**Insert Brian Pic Here**_
+### Usage
+Just browse the web like you normally do! Your RedX Firewall will do the rest and protect you from anything that may come your way.
 
-**Brian Siu**
+### Credits
+Gregory Galvan, Brian Siu, Shaun Pinzon
 
-Brian has experience with Network Administration and with the physical side of servers. He has worked with computers for many years and understand the setup cost and effort that goes into such a task.
+### License
+Creative Commons Legal Code
 
+CC0 1.0 Universal
 
-_**Insert Shaun Pic Here**_
+    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+    HEREUNDER.
 
-**Shaun Pinzon**
+Statement of Purpose
 
-Shaun had started learning about html5 and JavaScript in highschool, and currently taking a class on Python. He has created some personal projects, for instance, a 3D, first-person platformer and created some mini player vs AI games on Python
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator
+and subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
 
+Certain owners wish to permanently relinquish those rights to a Work for
+the purpose of contributing to a commons of creative, cultural and
+scientific works ("Commons") that the public can reliably and without fear
+of later claims of infringement build upon, modify, incorporate in other
+works, reuse and redistribute as freely as possible in any form whatsoever
+and for any purposes, including without limitation commercial purposes.
+These owners may contribute to the Commons to promote the ideal of a free
+culture and the further production of creative, cultural and scientific
+works, or to gain reputation or greater distribution for their Work in
+part through the use and efforts of others.
 
-### Strategy 
-- 2 years
-  - Heavily used locally
-- 3 years
-  - Heavily used in the state
-- 4-5 years
-  - Heavily used in the country
-- 7 years
-  - Global use
+For these and/or other purposes and motivations, and without any
+expectation of additional consideration or compensation, the person
+associating CC0 with a Work (the "Affirmer"), to the extent that he or she
+is an owner of Copyright and Related Rights in the Work, voluntarily
+elects to apply CC0 to the Work and publicly distribute the Work under its
+terms, with knowledge of his or her Copyright and Related Rights in the
+Work and the meaning and intended legal effect of CC0 on those rights.
 
-Competitor: Cisco, Barracuda, Sophos
-- https://www.cisco.com/c/en/us/solutions/collaboration/case-studies/t-mobile.html
-- https://www.cisco.com/c/en/us/solutions/collaboration/case-studies.html#~all
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not
+limited to, the following:
 
-```
-Our product exceeds our expectations; decreasing the amount of cyberattacks worldwide.
-Protecting from malware, Simplifying network protection, Implement AI into our security
-```
+  i. the right to reproduce, adapt, distribute, perform, display,
+     communicate, and translate a Work;
+ ii. moral rights retained by the original author(s) and/or performer(s);
+iii. publicity and privacy rights pertaining to a person's image or
+     likeness depicted in a Work;
+ iv. rights protecting against unfair competition in regards to a Work,
+     subject to the limitations in paragraph 4(a), below;
+  v. rights protecting the extraction, dissemination, use and reuse of data
+     in a Work;
+ vi. database rights (such as those arising under Directive 96/9/EC of the
+     European Parliament and of the Council of 11 March 1996 on the legal
+     protection of databases, and under any national implementation
+     thereof, including any amended or successor version of such
+     directive); and
+vii. other similar, equivalent or corresponding rights throughout the
+     world based on applicable law or treaty, and any national
+     implementations thereof.
 
-### Our Sloagan
-```
-Use Protection, It's Fun!
-```
+2. Waiver. To the greatest extent permitted by, but not in contravention
+of, applicable law, Affirmer hereby overtly, fully, permanently,
+irrevocably and unconditionally waives, abandons, and surrenders all of
+Affirmer's Copyright and Related Rights and associated claims and causes
+of action, whether now known or unknown (including existing as well as
+future claims and causes of action), in the Work (i) in all territories
+worldwide, (ii) for the maximum duration provided by applicable law or
+treaty (including future time extensions), (iii) in any current or future
+medium and for any number of copies, and (iv) for any purpose whatsoever,
+including without limitation commercial, advertising or promotional
+purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
+member of the public at large and to the detriment of Affirmer's heirs and
+successors, fully intending that such Waiver shall not be subject to
+revocation, rescission, cancellation, termination, or any other legal or
+equitable action to disrupt the quiet enjoyment of the Work by the public
+as contemplated by Affirmer's express Statement of Purpose.
 
-## Cultural Policy
-### Our Core Values
-- Accountability 
-- Honesty
-- Integrity
-- Open Communication with all parties
-- We design our products with our grandparents in mind
-- A commitment to keeping your private information safe
-- Comfortable Workspace
+3. Public License Fallback. Should any part of the Waiver for any reason
+be judged legally invalid or ineffective under applicable law, then the
+Waiver shall be preserved to the maximum extent permitted taking into
+account Affirmer's express Statement of Purpose. In addition, to the
+extent the Waiver is so judged Affirmer hereby grants to each affected
+person a royalty-free, non transferable, non sublicensable, non exclusive,
+irrevocable and unconditional license to exercise Affirmer's Copyright and
+Related Rights in the Work (i) in all territories worldwide, (ii) for the
+maximum duration provided by applicable law or treaty (including future
+time extensions), (iii) in any current or future medium and for any number
+of copies, and (iv) for any purpose whatsoever, including without
+limitation commercial, advertising or promotional purposes (the
+"License"). The License shall be deemed effective as of the date CC0 was
+applied by Affirmer to the Work. Should any part of the License for any
+reason be judged legally invalid or ineffective under applicable law, such
+partial invalidity or ineffectiveness shall not invalidate the remainder
+of the License, and in such case Affirmer hereby affirms that he or she
+will not (i) exercise any of his or her remaining Copyright and Related
+Rights in the Work or (ii) assert any associated claims and causes of
+action with respect to the Work, in either case contrary to Affirmer's
+express Statement of Purpose.
 
-### Our Motivation
-- Our Loves
-  - Safety
-  - Our Customers
-  - Simplicity
-- Our Fears
-  - Cyberattacks
-  - Data Loss
+4. Limitations and Disclaimers.
 
-### RedX's Culture
-```
-Simplicity and Protection
-```
-
-## Ethics Policy
-## Experimentation & Priorities
-## YouTube Presentation
-
-![RedX Banner ](https://repository-images.githubusercontent.com/258019896/b934c380-84a3-11ea-884b-feaaafe332c8)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+ a. No trademark or patent rights held by Affirmer are waived, abandoned,
+    surrendered, licensed or otherwise affected by this document.
+ b. Affirmer offers the Work as-is and makes no representations or
+    warranties of any kind concerning the Work, express, implied,
+    statutory or otherwise, including without limitation warranties of
+    title, merchantability, fitness for a particular purpose, non
+    infringement, or the absence of latent or other defects, accuracy, or
+    the present or absence of errors, whether or not discoverable, all to
+    the greatest extent permissible under applicable law.
+ c. Affirmer disclaims responsibility for clearing rights of other persons
+    that may apply to the Work or any use thereof, including without
+    limitation any person's Copyright and Related Rights in the Work.
+    Further, Affirmer disclaims responsibility for obtaining any necessary
+    consents, permissions or other rights required for any use of the
+    Work.
+ d. Affirmer understands and acknowledges that Creative Commons is not a
+    party to this document and has no duty or obligation with respect to
+    this CC0 or use of the Work.
